@@ -28,6 +28,7 @@ $(function() {
 });
 
 
+// code not working
 
 // $(document).ready(function(){
 //   var listItem = $('li');
